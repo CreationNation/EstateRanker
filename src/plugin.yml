@@ -1,0 +1,7 @@
+name: EstateRanker
+main: me.Ghappy.EstateRanker.EstateRanker
+version: 1.1
+commands:
+  rankup:
+    description: RankUp automaticly
+    usage: /rankup
